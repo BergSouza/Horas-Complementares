@@ -1,0 +1,3 @@
+Grandtour é um Projeto de Aplicação para Android, onde o objetivo é ser uma ferramenta de auxílio para jogadores de simuladores de viagens. Os jogadores podem criar rotas, cadastrar veículos, ver perfil de outros jogadores, cadastrar rotas de viagens, realizar viagens. A aplicação também pode server como base para uso na vida real, tendo em vista o conceito da aplicação, bastando apenas uma nova implementação na parte de embarque de passageiros.
+
+A aplicação foi feita utilizando Expo React Native para o FrontEnd e Firebase para o Backend.
